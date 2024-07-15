@@ -1,0 +1,62 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Admin
+      password: $2b$12$rlarkHX9tsVPs3b2EEOed.UMvJSytWMACvuRVRjZ0L2mefzxgPHcy
+      role: Admin
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$rlarkHX9tsVPs3b2EEOed.UMvJSytWMACvuRVRjZ0L2mefzxgPHcy
+      role: Student
+    kaur_tejwant:
+      email: kaurtejwant998@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Tejwant Kaur
+      password: $2b$12$lEDQ0623gx4V812zWNu5hOEN06i3tMiYqcA4rmmvL5FkLr78MykWq
+      role: Student
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: Rebecca Briggs
+      password: $2b$12$ThChcGcol10/GGD.xGkVN.KWz9RW88bCuX9pTWbR8rToUTj.R/nFS
+      role: Teacher
+    sarry:
+      email: teacher@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: sarry
+      password: $2b$12$yn2fKr6PyhiOQKy67lEL8u4Q5Ec3CoBWCYqcXi0w7Rsmkr91plecG
+      role: Teacher
+    shinda:
+      email: shinda@gmail.com
+      logged_in: false
+      name: shinda
+      password: $2b$12$r7V0oSK916ZbwWY2DUeuhOko./eJoGq8Uo9pitRJBtpzB49PHTqc2
+      role: Student
+    omm:
+      email: omm@gmail.com
+      logged_in: false
+      name: omm
+      password: omm
+      role: Student
+    khushi:
+      email: khushi@gmail.com
+      logged_in: false
+      name: Khushi
+      password: khushi
+      role: Student
+preauthorized:
+  emails:
+  - melsby@gmail.com
